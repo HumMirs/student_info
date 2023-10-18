@@ -1,0 +1,22 @@
+.main-container {
+  width: 90%;
+  margin: 50px auto;
+  margin-left: 70px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-container {
+  text-align: center;
+  width: 100%;
+  margin: 50px auto;
+  letter-spacing: 5px;
+  color: rgb(1, 106, 141);
+}
+
+.footer-container {
+  color: black;
+  margin-left: 100px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
